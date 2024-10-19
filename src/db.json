@@ -1,0 +1,39 @@
+{
+  "student": [
+    {
+      "id": "1",
+      "name": "megha",
+      "designation": "java devlepor",
+      "department": "devlepor",
+      "sallery": 50000
+    },
+    {
+      "id": "1",
+      "name": "megha",
+      "designation": "java devlepor",
+      "department": "devlepor",
+      "sallery": 50000
+    },
+    {
+      "id": "1",
+      "name": "megha",
+      "designation": "java devlepor",
+      "department": "develepor",
+      "sallery": 50000
+    },
+    {
+      "id": "1",
+      "name": "megha",
+      "designation": "java devlepor",
+      "department": "devlepor",
+      "sallery": 50000
+    },
+    {
+      "id": "3",
+      "name": "neha",
+      "designation": "java",
+      "department": "develpor",
+      "sallery": "40000"
+    }
+  ]
+}
